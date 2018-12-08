@@ -1,5 +1,5 @@
 {
-    "name": "eltharin/authMysql",
+    "name": "eltharin/authmysql",
     "description": "Auth module with mysql storage",
     "keywords": ["Whookshii", "PHP", "Web"],
     "license": "GPL-3.0",
